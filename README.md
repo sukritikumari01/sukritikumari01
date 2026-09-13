@@ -65,17 +65,12 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 ## ✨ Generative AI
 
 <p>
-
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
 </p>
 
-`LLMs` • `Prompt Engineering` • `Hugging Face` • `LangChain`
-
-`RAG` • `Embeddings` • `Vector Databases` • `AI Applications`
-
+`LLMs` • `Prompt Engineering` • `Hugging Face` • `LangChain`  
+`RAG` • `Embeddings` • `Vector Databases` • `AI Applications`  
 `AI Agents` • `Agentic AI`
 
 ---
@@ -121,33 +116,67 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 
 # 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Mental Health Score
+
+A machine-learning project for predicting and analyzing mental-health-related scores.
+
+**Tech:** Python • Pandas • Scikit-learn
 
 <a href="https://github.com/sukritikumari01/mental-health-score">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=mental-health-score&theme=tokyonight&hide_border=true" />
-
+  <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mental Health Score">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Vendor Performance Data Analytics
+
+A data analytics project focused on vendor performance analysis and extracting insights.
+
+**Tech:** Python • Pandas • SQL
 
 <a href="https://github.com/sukritikumari01/vendor-performance-data-analytics">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=vendor-performance-data-analytics&theme=tokyonight&hide_border=true" />
-
+  <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vendor Performance">
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Clinova AI — Health Risk Assessment
+
+An AI/ML project for health-risk assessment using predictive techniques.
+
+**Tech:** Python • Machine Learning
 
 <a href="https://github.com/sukritikumari01/Clinova-ai-health-risk-assessment">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=Clinova-ai-health-risk-assessment&theme=tokyonight&hide_border=true" />
-
+  <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Clinova AI">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎤 AI Interview
+
+An AI-powered application for interview preparation and evaluation.
+
+**Tech:** AI • Python • Web Development
 
 <a href="https://github.com/sukritikumari01/AI-Interview">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=AI-Interview&theme=tokyonight&hide_border=true" />
-
+  <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Interview">
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -172,7 +201,7 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sukritikumari01&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sukritikumari01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -192,36 +221,20 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sukritikumari01&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sukriti-kumari-bb6884217/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Sukriti%20Kumari-blue?style=for-the-badge&logo=linkedin" />
-
+<img src="https://img.shields.io/badge/LinkedIn-Sukriti%20Kumari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="https://leetcode.com/u/_Sukriti_/">
-
-<img src="https://img.shields.io/badge/LeetCode-_Sukriti_-orange?style=for-the-badge&logo=leetcode" />
-
+<img src="https://img.shields.io/badge/LeetCode-_Sukriti_-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
 </a>
 
 <a href="https://github.com/sukritikumari01">
-
-<img src="https://img.shields.io/badge/GitHub-sukritikumari01-black?style=for-the-badge&logo=github" />
-
+<img src="https://img.shields.io/badge/GitHub-sukritikumari01-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 </div>
