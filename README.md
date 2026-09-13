@@ -1,217 +1,218 @@
 <div align="center">
 
-# 👋 Hi, I'm Sukriti!
+👋 Hi, I'm Sukriti!
 
-### 🚀 AI/ML Enthusiast | Generative AI | Deep Learning | Full-Stack Developer
+🚀 AI/ML Enthusiast | Generative AI | Deep Learning | Full-Stack Developer
 
 <p>
   <a href="https://www.linkedin.com/in/sukriti-kumari-bb6884217/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/u/_Sukriti_/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://github.com/sukritikumari01">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 </div>
 
----
+🚀 About Me
 
-# 🚀 About Me
+I'm an aspiring AI/ML Engineer with a strong interest in building intelligent applications and solving real-world problems.
 
-I'm an aspiring **AI/ML Engineer** with a strong interest in building intelligent applications and solving real-world problems using technology.
-
-🔹 Exploring **Machine Learning, Deep Learning & NLP**  
-🔹 Learning **Generative AI, LLMs, RAG & AI Agents**  
-🔹 Practicing **C++, DSA, OOPs & DBMS**  
-🔹 Building practical **AI and full-stack projects**  
-🔹 Interested in combining **AI + Web Development** to create useful applications  
+🔹 Exploring Machine Learning, Deep Learning & NLP
+🔹 Learning Generative AI, LLMs, RAG & AI Agents
+🔹 Practicing C++, DSA, OOPs & DBMS
+🔹 Building practical AI and full-stack projects
+🔹 Interested in combining AI + Web Development to create useful applications
 
 I enjoy learning new technologies, building projects, solving coding problems, and continuously improving my problem-solving skills.
 
----
+🛠️ Skills & Technologies
 
-# 🛠️ Skills & Technologies
-
-## 💻 Programming Languages
+💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming Languages">
 </p>
 
-`Python` `C++`  `JavaScript` `HTML` `CSS`
+Python • C++ • JavaScript • HTML • CSS
 
----
-
-## 🤖 Data Science & AI
+🤖 Data Science & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Data Science and AI">
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
-`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision`  
-`Regression` • `Classification` • `Clustering` • `PCA` • `Feature Engineering`  
-`ANN` • `CNN` • `RNN` • `LSTM` • `GRU`
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 
----
+Machine Learning: Regression • Classification • Clustering • PCA • Feature Engineering • Model Evaluation
 
-## ✨ Generative AI
+Deep Learning: ANN • CNN • RNN • LSTM • GRU • Backpropagation • Optimization
+
+NLP: Tokenization • Stopword Removal • Bag of Words • N-grams • TF-IDF
+
+✨ Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 </p>
 
-`LLMs` • `Prompt Engineering` • `Hugging Face` • `LangChain`  
-`RAG` • `Embeddings` • `Vector Databases` • `AI Applications`  
-`AI Agents` • `Agentic AI`
+LLMs • Prompt Engineering • Hugging Face • LangChain
+RAG • Embeddings • Vector Databases • AI Applications
+AI Agents • Agentic AI
 
----
-
-## 🌐 Web Development
+🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" alt="Web Development">
 </p>
 
-`React` • `Node.js` • `FastAPI`   
-• `Frontend Development` 
+React • Node.js • FastAPI • Frontend Development
 
----
-
-## 🗄️ Databases
+🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases">
 </p>
 
-`MySQL` • `MongoDB` • `SQL`
+MySQL • MongoDB • SQL
 
----
+🧩 Core Computer Science
 
-## 🧩 Core Computer Science
+📌 Data Structures & Algorithms
+📌 Object-Oriented Programming (OOPs)
+📌 Database Management Systems (DBMS)
+📌 Problem Solving
 
-<p align="center">
-
-📌 **Data Structures & Algorithms**  
-📌 **Object-Oriented Programming (OOPs)**  
-📌 **Database Management Systems (DBMS)**  
-📌 **Problem Solving**
-
-</p>
-
----
-
-## 🔧 Tools & Platforms
+🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,jupyter" alt="Tools and Platforms">
 </p>
 
-`Git` • `GitHub` • `VS Code` • `Docker` • `Postman`
+GitHub • VS Code • Jupyter Notebook
 
----
+🚀 Featured Projects
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+🧠 Mental Health Score
+
+Machine learning project for predicting and analyzing mental-health-related scores.
+
+Tech: Python • Pandas • Scikit-learn • Machine Learning
 
 <a href="https://github.com/sukritikumari01/mental-health-score">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=mental-health-score&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mental Health Score">
 </a>
 
-<a href="https://github.com/sukritikumari01/vendor-performance-data-analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=vendor-performance-data-analytics&theme=tokyonight&hide_border=true" />
-</a>
+</td>
 
-<a href="https://github.com/sukritikumari01/Clinova-ai-health-risk-assessment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=Clinova-ai-health-risk-assessment&theme=tokyonight&hide_border=true" />
-</a>
+<td width="50%" valign="top">
+
+🎤 AI Interview
+
+AI-powered interview application for interview preparation and evaluation.
+
+Tech: AI • Python • Web Development
 
 <a href="https://github.com/sukritikumari01/AI-Interview">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=AI-Interview&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Interview">
 </a>
 
-</div>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-# 🌱 Currently Exploring
+🏥 Clinova AI — Health Risk Assessment
 
-- 🧠 **Advanced Deep Learning & Neural Architectures**
-- ✨ **Generative AI & LLM-powered Applications**
-- 🔗 **Retrieval-Augmented Generation (RAG)**
-- 🤖 **AI Agents & Agentic AI**
-- 💻 **Advanced DSA & Problem Solving**
-- 🏗️ **AI-powered Full-Stack Applications**
+AI/ML project for health-risk assessment using predictive techniques.
 
----
+Tech: Python • Machine Learning • AI
 
-# 📊 GitHub Statistics
+<a href="https://github.com/sukritikumari01/Clinova-ai-health-risk-assessment">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Clinova AI">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📊 Vendor Performance Data Analytics
+
+Data analytics project focused on vendor performance analysis and business insights.
+
+Tech: Python • Pandas • SQL • Data Analytics
+
+<a href="https://github.com/sukritikumari01/vendor-performance-data-analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Vendor Performance">
+</a>
+
+</td>
+</tr>
+</table>
+
+🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sukritikumari01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+🥉 3rd Place — Hackathon
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritikumari01&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=sukritikumari01&theme=tokyonight&hide_border=true" />
+Built and presented a solution in a competitive hackathon.
 
 </div>
 
----
+🌱 Currently Exploring
 
-# 🧠 LeetCode Stats
+🧠 Advanced Deep Learning & Neural Architectures
+
+✨ Generative AI & LLM-powered Applications
+
+🔗 Retrieval-Augmented Generation (RAG)
+
+🤖 AI Agents & Agentic AI
+
+💻 Advanced DSA & Problem Solving
+
+🏗️ AI-powered Full-Stack Applications
+
+🧠 LeetCode
 
 <div align="center">
 
 <a href="https://leetcode.com/u/_Sukriti_/">
-<img src="https://leetcard.jacoblin.cool/_Sukriti_?theme=dark&font=baloo&ext=heatmap" alt="Sukriti LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/_Sukriti_?theme=dark&font=baloo&ext=heatmap" alt="Sukriti LeetCode Stats">
 </a>
 
 </div>
 
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sukritikumari01&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sukriti-kumari-bb6884217/">
-<img src="https://img.shields.io/badge/LinkedIn-Sukriti%20Kumari-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="https://leetcode.com/u/_Sukriti_/">
-<img src="https://img.shields.io/badge/LeetCode-_Sukriti_-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
-
 <a href="https://github.com/sukritikumari01">
-<img src="https://img.shields.io/badge/GitHub-sukritikumari01-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-### 💡 Learn • Build • Solve • Grow 🚀
+💡 Learn • Build • Solve • Grow 🚀
 
 ⭐ Thanks for visiting my profile!
 
