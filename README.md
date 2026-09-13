@@ -39,10 +39,10 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-`Python` `C++` `Java` `JavaScript` `HTML` `CSS`
+`Python` `C++`  `JavaScript` `HTML` `CSS`
 
 ---
 
@@ -75,21 +75,21 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 ## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi" />
 </p>
 
-`React` • `Node.js` • `Express.js` • `FastAPI` • `Django` • `Flask`  
-`REST APIs` • `Frontend Development` • `Backend Development`
+`React` • `Node.js` • `FastAPI`   
+• `Frontend Development` 
 
 ---
 
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sql" />
 </p>
 
-`MySQL` • `MongoDB` • `PostgreSQL` • `SQL`
+`MySQL` • `MongoDB` • `SQL`
 
 ---
 
@@ -100,8 +100,6 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 📌 **Data Structures & Algorithms**  
 📌 **Object-Oriented Programming (OOPs)**  
 📌 **Database Management Systems (DBMS)**  
-📌 **Operating Systems**  
-📌 **Computer Networks**  
 📌 **Problem Solving**
 
 </p>
@@ -137,18 +135,6 @@ I enjoy learning new technologies, building projects, solving coding problems, a
 <a href="https://github.com/sukritikumari01/AI-Interview">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritikumari01&repo=AI-Interview&theme=tokyonight&hide_border=true" />
 </a>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-### 🥉 3rd Place — Hackathon
-
-🏅 Successfully secured **3rd place** in a competitive hackathon by building and presenting a solution within a limited timeframe.
 
 </div>
 
